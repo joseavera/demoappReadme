@@ -6,7 +6,7 @@
 
 ## 🖼️ Icono de la App
 
-![Icono de la App]([https://via.placeholder.com/150](https://images.vexels.com/media/users/3/157890/isolated/preview/4f2c005416b7f48b3d6d09c5c6763d87-icono-de-circulo-de-marca-de-verificacion.png))
+![Icono de la App]([https://via.placeholder.com/150](https://images.vexels.com/media/users/3/157890/isolated/preview/4f2c005416b7f48b3d6d09c5c6763d87-icono-de-circulo-de-marca-de-verificacion.png)
 
 ---
 
